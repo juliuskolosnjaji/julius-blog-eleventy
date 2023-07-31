@@ -7,7 +7,7 @@ date: 2023-07-31
 - HDI:0,867; GINI-Index: 0,364
 - Generell recht gut entwickelt
 - Zypern früher britische Kolonie
-- Türke: Nato-Mitglied
+- Türkei: Nato-Mitglied
 
 ### Positiv:
 - Europanähe
@@ -15,13 +15,13 @@ date: 2023-07-31
 - Wirtschaftsbeziehungen
 - Tourismus (Mittel- und Schwarzmeerküste)
 - Demokratisierung (früher)
-Fazit: naturgeographisch, ökonomisch, politisch
+-> naturgeographisch, ökonomisch, politisch
 
 ### Negativ:
 - Konflikte(Griechenland vs. Zypern)
 - Rückgang demokratischer Strukturen
 - Teilung Zyperns
-Fazit: politisch
+-> politisch
 
 ## Vorderasien
 - HDI: 0,72; GINI-Index: 0,365
@@ -36,7 +36,7 @@ Fazit: politisch
 - Mit neuem Kapital Verbesserung der Lebensbeginungen
 - Durch externes Know-How und Arbeitsmigranten starke Verbesserung Infrastruktur und Gebäude
 - Neuerdings Diversifizierung Wirtschaft (Hauptsächlich sekundärer, aber auch tertiärer Sektor)
-Fazit: naturgeographisch, ökonomisch
+-> naturgeographisch, ökonomisch
 
 ### Negativ:
 - Abhängigkeit vom Weltmarkt
@@ -44,7 +44,7 @@ Fazit: naturgeographisch, ökonomisch
 - Mangelhaftes Angebot an Jobs für Hochqualifizierte
 - Wachsende gesellschaftliche Unruhen
 - Krieg, Terrorismus, Konflikte
-Fazit: Politisch Sozial
+-> Politisch Sozial
 
 ## Zentralasien
 - HDI:0,732; GINI-Index: 0,344
@@ -54,7 +54,7 @@ Fazit: Politisch Sozial
 ### Positiv:
 - Große Energie- und Rohstoffvorkommen
 - Hohe Einnahmen durch Ressourcenausbeutung
-Fazit: naturgeographisch, ökonomisch
+-> naturgeographisch, ökonomisch
 
 ### Negativ:
 - Bad Governanve (Diktaturen)
@@ -62,7 +62,7 @@ Fazit: naturgeographisch, ökonomisch
 - Schlechte Infrastruktur
 - Massenarmut
 - Große Soziale Unterschiede
-Fazit: politisch, sozial
+-> politisch, sozial
 
 ## Südasien
 - HDI:0,639; GINI-Index:0,346
@@ -72,14 +72,14 @@ Fazit: politisch, sozial
 - Tourismus
 - Einnahmen durch Billiglohnarbeit
 - Indien: wirtschaftlich aufstrebend
-Fazit: ökonomisch
+-> ökonomisch
 
 ### Negativ:
 - Pakistan: große Konflikte, Konkurrenz Indien
 - Afghanistan: große Konflikte, Terrorismus, Taliban (Ursprünge oft durch USA vs UdSSR)
 - Bad Governance
 - Große soziale Ungleichheit, starkes Bevölkerungswachstum
-Fazit: politisch, sozial, historisch
+-> politisch, sozial, historisch
 
 ## Südost- Ostasien
 - HDI:0,762; GINI-Index:0,376
@@ -92,13 +92,13 @@ Fazit: politisch, sozial, historisch
 - Guter Produktionsstandort
 - China: politisch und wirtschaftlich sehr mächtig
 - Wirtschaftsbündnisse (ASEAN, RCEP)
-Fazit: ökonomisch, sozial, politisch
+-> ökonomisch, sozial, politisch
 
 ### Negativ:
 - Große Armut
 - Teilweise große soziale Unterschiede
 - Konflikte (China), Ursprung oft USA vs UdSSR
-Fazit: sozial, politisch, historisch
+-> sozial, politisch, historisch
 
 ## Pazifische Inselwelt
 - HDI: 0,71; GINI-Index: 0,361
@@ -107,7 +107,7 @@ Fazit: sozial, politisch, historisch
 ### Positiv
 - Indonesien und Philipinen: Produktion für den Weltmarkt
 - Wirtschaftsbündnisse (ASEAN, RCEP)
-Fazit: ökonomisch Wirtschaftlich
+-> ökonomisch Wirtschaftlich
 
 ### Negativ:
 - Inseln -> Logistik und Infrastruktur kompliziert
@@ -115,7 +115,7 @@ Fazit: ökonomisch Wirtschaftlich
 - Naturkatastrophen
 - Kau Bodenschätue
 - Hroße Armut
-Fazit: naturgeographisch, sozial, ökonomisch, politisch
+-> naturgeographisch, sozial, ökonomisch, politisch
 
 # Bilanz
 - Verschiedene Voraussetzungen
