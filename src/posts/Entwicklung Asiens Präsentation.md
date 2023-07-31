@@ -1,6 +1,6 @@
 ---
 title: 'Entwicklung Asiens Präsentation'
-date: 2023.07.31
+date: 2023-07-31
 ---
 ## Anatolien und Zypern
 
