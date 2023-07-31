@@ -11,13 +11,13 @@
 - Wirtschaftsbeziehungen
 - Tourismus (Mittel- und Schwarzmeerküste)
 - Demokratisierung (früher)
--> naturgeographisch, ökonomisch, politisch
+Fazit: naturgeographisch, ökonomisch, politisch
 
 ### Negativ:
 - Konflikte(Griechenland vs. Zypern)
 - Rückgang demokratischer Strukturen
 - Teilung Zyperns
--> politisch
+Fazit: politisch
 
 ## Vorderasien
 - HDI: 0,72; GINI-Index: 0,365
@@ -32,7 +32,7 @@
 - Mit neuem Kapital Verbesserung der Lebensbeginungen
 - Durch externes Know-How und Arbeitsmigranten starke Verbesserung Infrastruktur und Gebäude
 - Neuerdings Diversifizierung Wirtschaft (Hauptsächlich sekundärer, aber auch tertiärer Sektor)
--> naturgeographisch, ökonomisch
+Fazit: naturgeographisch, ökonomisch
 
 ### Negativ:
 - Abhängigkeit vom Weltmarkt
@@ -40,7 +40,7 @@
 - Mangelhaftes Angebot an Jobs für Hochqualifizierte
 - Wachsende gesellschaftliche Unruhen
 - Krieg, Terrorismus, Konflikte
--> Politisch Sozial
+Fazit: Politisch Sozial
 
 ## Zentralasien
 - HDI:0,732; GINI-Index: 0,344
@@ -50,7 +50,7 @@
 ### Positiv:
 - Große Energie- und Rohstoffvorkommen
 - Hohe Einnahmen durch Ressourcenausbeutung
--> naturgeographisch, ökonomisch
+Fazit: naturgeographisch, ökonomisch
 
 ### Negativ:
 - Bad Governanve (Diktaturen)
@@ -58,7 +58,7 @@
 - Schlechte Infrastruktur
 - Massenarmut
 - Große Soziale Unterschiede
--> politisch, sozial
+Fazit: politisch, sozial
 
 ## Südasien
 - HDI:0,639; GINI-Index:0,346
@@ -68,14 +68,14 @@
 - Tourismus
 - Einnahmen durch Billiglohnarbeit
 - Indien: wirtschaftlich aufstrebend
--> ökonomisch
+Fazit: ökonomisch
 
 ### Negativ:
 - Pakistan: große Konflikte, Konkurrenz Indien
 - Afghanistan: große Konflikte, Terrorismus, Taliban (Ursprünge oft durch USA vs UdSSR)
 - Bad Governance
 - Große soziale Ungleichheit, starkes Bevölkerungswachstum
--> politisch, sozial, historisch
+Fazit: politisch, sozial, historisch
 
 ## Südost- Ostasien
 - HDI:0,762; GINI-Index:0,376
@@ -88,13 +88,13 @@
 - Guter Produktionsstandort
 - China: politisch und wirtschaftlich sehr mächtig
 - Wirtschaftsbündnisse (ASEAN, RCEP)
--> ökonomisch, sozial, politisch
+Fazit: ökonomisch, sozial, politisch
 
 ### Negativ:
 - Große Armut
 - Teilweise große soziale Unterschiede
 - Konflikte (China), Ursprung oft USA vs UdSSR
--> sozial, politisch, historisch
+Fazit: sozial, politisch, historisch
 
 ## Pazifische Inselwelt
 - HDI: 0,71; GINI-Index: 0,361
@@ -103,7 +103,7 @@
 ### Positiv
 - Indonesien und Philipinen: Produktion für den Weltmarkt
 - Wirtschaftsbündnisse (ASEAN, RCEP)
--> ökonomisch Wirtschaftlich
+Fazit: ökonomisch Wirtschaftlich
 
 ### Negativ:
 - Inseln -> Logistik und Infrastruktur kompliziert
@@ -111,7 +111,7 @@
 - Naturkatastrophen
 - Kau Bodenschätue
 - Hroße Armut
--> naturgeographisch, sozial, ökonomisch, politisch
+Fazit: naturgeographisch, sozial, ökonomisch, politisch
 
 # Bilanz
 - Verschiedene Voraussetzungen
@@ -121,4 +121,4 @@
 - Missstände
 - Politische Konflikte
 
--> Generell positive Entwicklung, aber noch viele Probleme, die zu lösen sind
+Fazit: Generell positive Entwicklung, aber noch viele Probleme, die zu lösen sind
