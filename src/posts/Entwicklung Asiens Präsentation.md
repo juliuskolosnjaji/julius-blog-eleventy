@@ -1,5 +1,3 @@
-#Entwicklung Asiens
-
 ## Anatolien und Zypern
 
 - HDI:0,867; GINI-Index: 0,364
