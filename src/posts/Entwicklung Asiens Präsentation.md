@@ -1,3 +1,7 @@
+---
+title: 'Entwicklung Asiens Präsentation'
+date: 2023.07.31
+---
 ## Anatolien und Zypern
 
 - HDI:0,867; GINI-Index: 0,364
