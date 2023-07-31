@@ -5,9 +5,9 @@
     "icon": "github.svg"
   },
   {
-    "platform": "mastodon",
-    "url": "https://front-end.social/@lene",
-    "icon": "mastodon.svg"
+    "platform": "Twitter",
+    "url": "https://twitter.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png"
   },
   {
     "platform": "ko-fi",
