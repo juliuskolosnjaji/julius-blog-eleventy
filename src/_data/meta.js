@@ -31,15 +31,15 @@ module.exports = {
   },
   address: {
     // edit all presets or leave empty. They are being used in the pages for privacy.md and imprint.md
-    firma: 'Organization name',
-    street: '123 Main St.',
-    city: 'Ciudad',
-    state: 'Estado',
-    zip: '12345',
-    mobileDisplay: '+34 1234567',
-    mobileCall: ' +341234567',
-    email: 'hola@yoursite.com',
-    cif: ''
+    firma: 'Drei Dumme Shanghai International Holding Corp. Ltd. GmbH',
+    street: '308 Negra Arroyo Lane',
+    city: 'Albuquerque',
+    state: 'New Mexico',
+    zip: '53125',
+    //mobileDisplay: '+34 1234567',
+    //mobileCall: ' +341234567',
+    //email: 'hola@yoursite.com',
+    //cif: ''
   },
   menu: {
     closedText: 'Menu'
