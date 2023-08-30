@@ -1,6 +1,6 @@
 ---
 title: 'Programming a Morse Code Binary Tree in Java'
-date: 'TBA'
+date: 2023-08-30
 ---
 
 # Theory
